@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "facebook/lexical",
+    "stargazers_count": 16869,
+    "open_issues_count": 502,
+    "forks_count": 1358
+  },
+  {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 42749,
+    "stargazers_count": 43420,
     "open_issues_count": 1,
-    "forks_count": 3339
+    "forks_count": 3400
   },
   {
     "full_name": "gilbarbara/logos",
-    "stargazers_count": 6176,
+    "stargazers_count": 6180,
     "open_issues_count": 39,
-    "forks_count": 716
+    "forks_count": 717
   },
   {
     "full_name": "struckchure/e_commerce_api",
@@ -25,7 +31,7 @@
   },
   {
     "full_name": "developedbyed/meditation-app",
-    "stargazers_count": 255,
+    "stargazers_count": 257,
     "open_issues_count": 15,
     "forks_count": 230
   }
