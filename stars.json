@@ -1,19 +1,25 @@
 [
   {
+    "full_name": "ShenSeanChen/yt-supabase-tips-kanban",
+    "stargazers_count": 44,
+    "open_issues_count": 0,
+    "forks_count": 14
+  },
+  {
     "full_name": "facebook/lexical",
-    "stargazers_count": 22710,
-    "open_issues_count": 572,
+    "stargazers_count": 22727,
+    "open_issues_count": 574,
     "forks_count": 2062
   },
   {
     "full_name": "charlax/professional-programming",
-    "stargazers_count": 50062,
-    "open_issues_count": 5,
-    "forks_count": 3936
+    "stargazers_count": 50102,
+    "open_issues_count": 0,
+    "forks_count": 3940
   },
   {
     "full_name": "gilbarbara/logos",
-    "stargazers_count": 6646,
+    "stargazers_count": 6645,
     "open_issues_count": 81,
     "forks_count": 755
   },
@@ -31,8 +37,8 @@
   },
   {
     "full_name": "developedbyed/meditation-app",
-    "stargazers_count": 261,
-    "open_issues_count": 14,
+    "stargazers_count": 263,
+    "open_issues_count": 16,
     "forks_count": 223
   }
 ]
